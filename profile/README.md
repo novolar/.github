@@ -1,4 +1,4 @@
-## Olá 👋!
+## Olá 👋
 
 ### Bem-vindo ao espaço técnico da Novo Lar!
 
